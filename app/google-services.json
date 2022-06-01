@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540889973783",
+    "project_id": "svayambhu-b0017",
+    "storage_bucket": "svayambhu-b0017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540889973783:android:45aed084e361987a0cc852",
+        "android_client_info": {
+          "package_name": "com.mred.svayambhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540889973783-k9s0cctcvi6cp1c3f31dci13uhp2e9ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eScdf1qIK8jSnaO8vhtHLdmDL-y2wc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540889973783-k9s0cctcvi6cp1c3f31dci13uhp2e9ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
